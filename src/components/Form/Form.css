@@ -1,0 +1,6 @@
+.Form{
+    margin-bottom: 5vh;
+}
+.Form input[type="text"]{
+    width: 50%;
+}
